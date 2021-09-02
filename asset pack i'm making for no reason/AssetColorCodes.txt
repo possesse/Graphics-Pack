@@ -1,0 +1,27 @@
+						Asset pack color codes
+
+Brick wall color codes:
+
+outline: #6c6c6c
+bricks: #cccccc
+
+Red Brick wall color codes:
+
+outline: #cccccc
+bricks: #b26464
+
+Wooden Door color codes:
+
+outline: #414141
+Wood: #6a6161
+MetalStraps: #5c5c5c
+DoorKnob: #f2ff00
+Light: #ffffff
+
+alien isolation door color codes:
+
+#555555
+YellowStraps: #f2ff00
+lighterGreyStraps: #777777
+
+
